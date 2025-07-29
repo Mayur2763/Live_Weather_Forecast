@@ -12,5 +12,3 @@ A responsive and interactive web application that displays real-time weather for
 ☁️ Weather icons based on forecast
 🛠️ Technologies Used
 Frontend: HTML5, CSS3, JavaScript
-
-API: OpenWeatherMap API
